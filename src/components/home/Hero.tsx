@@ -24,7 +24,7 @@ export default function Hero() {
           <h1 className="max-w-3xl font-bold tracking-tight md:max-w-4xl">
             <span className="block text-4xl text-primary md:text-6xl">Controla tu negocio</span>
             <span className="mt-2 block text-2xl text-foreground md:text-4xl">
-              sin necesidad de estar en el
+              desde cualquier lugar
             </span>
           </h1>
         </Reveal>
